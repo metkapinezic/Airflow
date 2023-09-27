@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -120.5015,
+        "lat": 47.5001
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 281.13,
+        "feels_like": 281.13,
+        "temp_min": 279.59,
+        "temp_max": 282.78,
+        "pressure": 1014,
+        "humidity": 84,
+        "sea_level": 1014,
+        "grnd_level": 955
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.8,
+        "deg": 334,
+        "gust": 0.8
+    },
+    "clouds": {
+        "all": 93
+    },
+    "dt": 1695812559,
+    "sys": {
+        "type": 2,
+        "id": 2019804,
+        "country": "US",
+        "sunrise": 1695822914,
+        "sunset": 1695865845
+    },
+    "timezone": -25200,
+    "id": 5815135,
+    "name": "Washington",
+    "cod": 200
+}
